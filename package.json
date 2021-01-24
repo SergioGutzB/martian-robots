@@ -1,0 +1,26 @@
+{
+  "name": "martian-robots",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mars-surface.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergioGutzB/martian-robots.git"
+  },
+  "keywords": [
+    "martian",
+    "robots"
+  ],
+  "author": "Sergio Gutierrez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SergioGutzB/martian-robots/issues"
+  },
+  "homepage": "https://github.com/SergioGutzB/martian-robots#readme",
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}

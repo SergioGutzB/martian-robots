@@ -19,8 +19,5 @@
   "bugs": {
     "url": "https://github.com/SergioGutzB/martian-robots/issues"
   },
-  "homepage": "https://github.com/SergioGutzB/martian-robots#readme",
-  "devDependencies": {
-    "http-server": "^0.12.3"
-  }
+  "homepage": "https://github.com/SergioGutzB/martian-robots#readme"
 }

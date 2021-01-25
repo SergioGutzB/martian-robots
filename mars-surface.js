@@ -2,10 +2,10 @@ class MarsSurface {
   robots = [];
   lostRobots = [];
 
-  constructor(sizeX, sizeY) {
+  constructor(size) {
     this.mapSize = {
-      x: sizeX,
-      y: sizeY
+      x: size.x,
+      y: size.y
     };
   }
 

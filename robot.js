@@ -5,10 +5,10 @@ class Robot {
   lost = false;
 
   constructor(position) {
-    this.x = parseInt(position[0]);
-    this.y = parseInt(position[1]);
-    this.orientation = position[2];
-    this.steps.push(this.getPosition())
+    this.x = position.x;
+    this.y = position.y;
+    this.orientation = position.orientation;
+    this.steps.push(this.getPosition());
   }
 
   run(instruction) {
